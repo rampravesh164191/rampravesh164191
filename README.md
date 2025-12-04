@@ -1,6 +1,6 @@
 # 💻 Ram Pravesh | Full Stack Developer
 
-Hi there! 👋 I'm **Ram Pravesh**, a passionate **Full Stack Developer** from India with over **4 years** of experience building responsive, interactive, and scalable web applications. While I specialize in **front-end development**, I also have strong skills in **back-end technologies** and enjoy working on all aspects of web development.
+Hi there! 👋 I'm **Ram Pravesh**, a passionate **Full Stack Developer** from India. I recently completed my full-stack development training at **Masai School**, where I built several responsive and dynamic web applications. I specialize in **front-end development** and also have hands-on experience with **back-end technologies**. I love creating clean, user-friendly interfaces and enjoy learning new tools and technologies to improve my craft.
 
 
 ---
